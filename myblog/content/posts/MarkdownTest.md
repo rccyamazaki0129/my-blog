@@ -19,3 +19,19 @@ Horizontal Rule
 
 Another Rule
 ___
+
+> This is a quote
+
+[My home page](https://rccyamazaki0129.github.io)
+
+[Second Post](https://rccyamazaki0129.github.io/posts/secondpost/ "my second post")
+
+* Item 1
+* Item 2
+* Item 3
+  * Nested Item 1
+  * Nested Item 2
+
+1. Item 1
+1. Item 2
+1. Item 3
