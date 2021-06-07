@@ -1,9 +1,19 @@
----
-title: "Display Images"
-date: 2021-06-07T22:12:31+09:00
----
++++
+title = "Display image test"
+description = ""
+tags = [
+    "go",
+    "hugo",
+    "development",
+]
+date = "2014-04-02"
+categories = [
+    "Development"
+]
+image = "0607/photo01.jpeg"
++++
 
-This is a test post.
+###This is a test post.
 
 Can you see the picture down below?
 
